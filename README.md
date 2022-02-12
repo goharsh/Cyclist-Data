@@ -1,3 +1,5 @@
+### To see the detailed reports of Analysis on Kaggle : [Click Here](https://www.kaggle.com/harshgoyal827/google-data-analytics-certification-project)
+
 # Background
 
 This analysis is of the case study-1 from google data analytics certification course. It’s originally based on the case study “Sophisticated, Clear, and Polished" Divvy and Data Visualization written by Kevin Hartman [click here](http://https://http://divvy-tripdata.s3.amazonaws.com/index.html) to visit the data sets. We will be using the Divvy dataset for this case study.
